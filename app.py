@@ -1,3 +1,5 @@
+REPLICATE_API_TOKEN
+r8_YXnu5MhQW3004VbjVu7WRowyy2FgyTO4DVXmi
 from flask import Flask, request, jsonify
 import os
 import replicate
